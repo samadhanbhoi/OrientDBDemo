@@ -1,0 +1,6 @@
+com\plugin\commonUtils\CommonUtils.class
+com\plugin\commonUtils\DBConfig.class
+com\plugin\paging\PagingStudent.class
+com\plugin\create\CreateStudent.class
+com\plugin\createAddress\CreateStudentWithAddress.class
+com\plugin\search\SearchStudent.class
